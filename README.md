@@ -6,9 +6,9 @@ Links and more information and stuff
 
 ## 12-15
 
-### How to make The World Changing Extension Alimotih?
+### Make your first world changing browser extension. Extension development video
 
-[![How to make The World Changing Extension Alimotih?](https://img.youtube.com/vi/IwupIIgj7nc/0.jpg)](https://www.youtube.com/watch?v=IwupIIgj7nc)
+[![Make your first world changing browser extension. Extension development video?](https://img.youtube.com/vi/IwupIIgj7nc/0.jpg)](https://www.youtube.com/watch?v=IwupIIgj7nc)
 
   - Alimotih: https://github.com/NowhereOpen/Alimotih
   - Alimotih first solution (auto click): https://github.com/chulman444/alimotih-first-solution
